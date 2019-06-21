@@ -1,0 +1,14 @@
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.Entities\obj\Debug\netcoreapp2.2\Default.Project.Entities.csprojAssemblyReference.cache
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.Entities\obj\Debug\netcoreapp2.2\Default.Project.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.Entities\obj\Debug\netcoreapp2.2\Default.Project.Entities.AssemblyInfoInputs.cache
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.Entities\obj\Debug\netcoreapp2.2\Default.Project.Entities.AssemblyInfo.cs
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.Entities\bin\Debug\netcoreapp2.2\Default.Project.Entities.deps.json
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.Entities\bin\Debug\netcoreapp2.2\Default.Project.Entities.dll
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.Entities\bin\Debug\netcoreapp2.2\Default.Project.Entities.pdb
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.Entities\bin\Debug\netcoreapp2.2\Default.Core.dll
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.Entities\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.Entities\bin\Debug\netcoreapp2.2\Default.Core.pdb
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.Entities\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.Entities\obj\Debug\netcoreapp2.2\Default.Project.Entities.csproj.CopyComplete
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.Entities\obj\Debug\netcoreapp2.2\Default.Project.Entities.dll
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.Entities\obj\Debug\netcoreapp2.2\Default.Project.Entities.pdb

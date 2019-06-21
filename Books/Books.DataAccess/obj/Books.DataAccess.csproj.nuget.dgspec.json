@@ -1,0 +1,183 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.DataAccess\\Books.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.Core\\Books.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.Core\\Books.Core.csproj",
+        "projectName": "Books.Core",
+        "projectPath": "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.Core\\Books.Core.csproj",
+        "packagesPath": "C:\\Users\\ahmet.yazici\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmet.yazici\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.DataAccess\\Books.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.DataAccess\\Books.DataAccess.csproj",
+        "projectName": "Books.DataAccess",
+        "projectPath": "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.DataAccess\\Books.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ahmet.yazici\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmet.yazici\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.Core\\Books.Core.csproj": {
+                "projectPath": "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.Core\\Books.Core.csproj"
+              },
+              "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.Entities\\Books.Entities.csproj": {
+                "projectPath": "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.Entities\\Books.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.Entities\\Books.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.Entities\\Books.Entities.csproj",
+        "projectName": "Books.Entities",
+        "projectPath": "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.Entities\\Books.Entities.csproj",
+        "packagesPath": "C:\\Users\\ahmet.yazici\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmet.yazici\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.Core\\Books.Core.csproj": {
+                "projectPath": "C:\\Users\\ahmet.yazici\\Desktop\\Ahmet\\Books\\Books.Core\\Books.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

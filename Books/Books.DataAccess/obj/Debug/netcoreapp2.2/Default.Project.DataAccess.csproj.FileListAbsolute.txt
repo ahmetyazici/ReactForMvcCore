@@ -1,0 +1,14 @@
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.DataAccess\bin\Debug\netcoreapp2.2\Default.Project.DataAccess.deps.json
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.DataAccess\bin\Debug\netcoreapp2.2\Default.Project.DataAccess.dll
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.DataAccess\bin\Debug\netcoreapp2.2\Default.Project.DataAccess.pdb
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.DataAccess\obj\Debug\netcoreapp2.2\Default.Project.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.DataAccess\obj\Debug\netcoreapp2.2\Default.Project.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.DataAccess\obj\Debug\netcoreapp2.2\Default.Project.DataAccess.AssemblyInfo.cs
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.DataAccess\obj\Debug\netcoreapp2.2\Default.Project.DataAccess.dll
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.DataAccess\obj\Debug\netcoreapp2.2\Default.Project.DataAccess.pdb
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.DataAccess\obj\Debug\netcoreapp2.2\Default.Project.DataAccess.csprojAssemblyReference.cache
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.DataAccess\bin\Debug\netcoreapp2.2\Default.Core.dll
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.DataAccess\bin\Debug\netcoreapp2.2\Default.Project.Entities.dll
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.DataAccess\bin\Debug\netcoreapp2.2\Default.Core.pdb
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.DataAccess\bin\Debug\netcoreapp2.2\Default.Project.Entities.pdb
+C:\Users\ahmet.yazici\source\repos\DefaultProject\Default.Project.DataAccess\obj\Debug\netcoreapp2.2\Default.Project.DataAccess.csproj.CopyComplete

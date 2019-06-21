@@ -1,0 +1,32 @@
+C:\Users\ahmet.yazici\Desktop\Gurmen Project\GT.AuthService\GT.AuthService.Business\bin\Debug\netcoreapp2.2\GT.AuthService.Business.deps.json
+C:\Users\ahmet.yazici\Desktop\Gurmen Project\GT.AuthService\GT.AuthService.Business\bin\Debug\netcoreapp2.2\GT.AuthService.Business.dll
+C:\Users\ahmet.yazici\Desktop\Gurmen Project\GT.AuthService\GT.AuthService.Business\bin\Debug\netcoreapp2.2\GT.AuthService.Business.pdb
+C:\Users\ahmet.yazici\Desktop\Gurmen Project\GT.AuthService\GT.AuthService.Business\bin\Debug\netcoreapp2.2\GT.AuthService.Core.dll
+C:\Users\ahmet.yazici\Desktop\Gurmen Project\GT.AuthService\GT.AuthService.Business\bin\Debug\netcoreapp2.2\GT.AuthService.DataAccess.dll
+C:\Users\ahmet.yazici\Desktop\Gurmen Project\GT.AuthService\GT.AuthService.Business\bin\Debug\netcoreapp2.2\GT.AuthService.Entities.dll
+C:\Users\ahmet.yazici\Desktop\Gurmen Project\GT.AuthService\GT.AuthService.Business\bin\Debug\netcoreapp2.2\GT.AuthService.Core.pdb
+C:\Users\ahmet.yazici\Desktop\Gurmen Project\GT.AuthService\GT.AuthService.Business\bin\Debug\netcoreapp2.2\GT.AuthService.DataAccess.pdb
+C:\Users\ahmet.yazici\Desktop\Gurmen Project\GT.AuthService\GT.AuthService.Business\bin\Debug\netcoreapp2.2\GT.AuthService.Entities.pdb
+C:\Users\ahmet.yazici\Desktop\Gurmen Project\GT.AuthService\GT.AuthService.Business\obj\Debug\netcoreapp2.2\GT.AuthService.Business.csprojAssemblyReference.cache
+C:\Users\ahmet.yazici\Desktop\Gurmen Project\GT.AuthService\GT.AuthService.Business\obj\Debug\netcoreapp2.2\GT.AuthService.Business.csproj.CoreCompileInputs.cache
+C:\Users\ahmet.yazici\Desktop\Gurmen Project\GT.AuthService\GT.AuthService.Business\obj\Debug\netcoreapp2.2\GT.AuthService.Business.AssemblyInfoInputs.cache
+C:\Users\ahmet.yazici\Desktop\Gurmen Project\GT.AuthService\GT.AuthService.Business\obj\Debug\netcoreapp2.2\GT.AuthService.Business.AssemblyInfo.cs
+C:\Users\ahmet.yazici\Desktop\Gurmen Project\GT.AuthService\GT.AuthService.Business\obj\Debug\netcoreapp2.2\GT.AuthService.Business.csproj.CopyComplete
+C:\Users\ahmet.yazici\Desktop\Gurmen Project\GT.AuthService\GT.AuthService.Business\obj\Debug\netcoreapp2.2\GT.AuthService.Business.dll
+C:\Users\ahmet.yazici\Desktop\Gurmen Project\GT.AuthService\GT.AuthService.Business\obj\Debug\netcoreapp2.2\GT.AuthService.Business.pdb
+C:\Users\ahmet.yazici\Desktop\GurmenProjects\GT.AuthService\GT.AuthService.Business\obj\Debug\netcoreapp2.2\GT.AuthService.Business.csprojAssemblyReference.cache
+C:\Users\ahmet.yazici\Desktop\GurmenProjects\GT.AuthService\GT.AuthService.Business\obj\Debug\netcoreapp2.2\GT.AuthService.Business.csproj.CoreCompileInputs.cache
+C:\Users\ahmet.yazici\Desktop\GurmenProjects\GT.AuthService\GT.AuthService.Business\obj\Debug\netcoreapp2.2\GT.AuthService.Business.AssemblyInfoInputs.cache
+C:\Users\ahmet.yazici\Desktop\GurmenProjects\GT.AuthService\GT.AuthService.Business\obj\Debug\netcoreapp2.2\GT.AuthService.Business.AssemblyInfo.cs
+C:\Users\ahmet.yazici\Desktop\GurmenProjects\GT.AuthService\GT.AuthService.Business\obj\Debug\netcoreapp2.2\GT.AuthService.Business.dll
+C:\Users\ahmet.yazici\Desktop\GurmenProjects\GT.AuthService\GT.AuthService.Business\obj\Debug\netcoreapp2.2\GT.AuthService.Business.pdb
+C:\Users\ahmet.yazici\Desktop\GurmenProjects\GT.AuthService\GT.AuthService.Business\bin\Debug\netcoreapp2.2\GT.AuthService.Business.deps.json
+C:\Users\ahmet.yazici\Desktop\GurmenProjects\GT.AuthService\GT.AuthService.Business\bin\Debug\netcoreapp2.2\GT.AuthService.Business.dll
+C:\Users\ahmet.yazici\Desktop\GurmenProjects\GT.AuthService\GT.AuthService.Business\bin\Debug\netcoreapp2.2\GT.AuthService.Business.pdb
+C:\Users\ahmet.yazici\Desktop\GurmenProjects\GT.AuthService\GT.AuthService.Business\bin\Debug\netcoreapp2.2\GT.AuthService.Core.dll
+C:\Users\ahmet.yazici\Desktop\GurmenProjects\GT.AuthService\GT.AuthService.Business\bin\Debug\netcoreapp2.2\GT.AuthService.DataAccess.dll
+C:\Users\ahmet.yazici\Desktop\GurmenProjects\GT.AuthService\GT.AuthService.Business\bin\Debug\netcoreapp2.2\GT.AuthService.Entities.dll
+C:\Users\ahmet.yazici\Desktop\GurmenProjects\GT.AuthService\GT.AuthService.Business\bin\Debug\netcoreapp2.2\GT.AuthService.Core.pdb
+C:\Users\ahmet.yazici\Desktop\GurmenProjects\GT.AuthService\GT.AuthService.Business\bin\Debug\netcoreapp2.2\GT.AuthService.DataAccess.pdb
+C:\Users\ahmet.yazici\Desktop\GurmenProjects\GT.AuthService\GT.AuthService.Business\bin\Debug\netcoreapp2.2\GT.AuthService.Entities.pdb
+C:\Users\ahmet.yazici\Desktop\GurmenProjects\GT.AuthService\GT.AuthService.Business\obj\Debug\netcoreapp2.2\GT.AuthService.Business.csproj.CopyComplete

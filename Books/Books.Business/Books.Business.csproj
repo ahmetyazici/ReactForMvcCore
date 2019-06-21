@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Books.Core\Books.Core.csproj" />
+    <ProjectReference Include="..\Books.DataAccess\Books.DataAccess.csproj" />
+    <ProjectReference Include="..\Books.Entities\Books.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

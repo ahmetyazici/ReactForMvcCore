@@ -1,0 +1,12 @@
+C:\Users\ahmet.yazici\Desktop\Ahmet\Books\Books.Core\bin\Debug\netcoreapp2.2\Books.Core.deps.json
+C:\Users\ahmet.yazici\Desktop\Ahmet\Books\Books.Core\bin\Debug\netcoreapp2.2\Books.Core.dll
+C:\Users\ahmet.yazici\Desktop\Ahmet\Books\Books.Core\bin\Debug\netcoreapp2.2\Books.Core.pdb
+C:\Users\ahmet.yazici\Desktop\Ahmet\Books\Books.Core\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Users\ahmet.yazici\Desktop\Ahmet\Books\Books.Core\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+C:\Users\ahmet.yazici\Desktop\Ahmet\Books\Books.Core\obj\Debug\netcoreapp2.2\Books.Core.csprojAssemblyReference.cache
+C:\Users\ahmet.yazici\Desktop\Ahmet\Books\Books.Core\obj\Debug\netcoreapp2.2\Books.Core.csproj.CoreCompileInputs.cache
+C:\Users\ahmet.yazici\Desktop\Ahmet\Books\Books.Core\obj\Debug\netcoreapp2.2\Books.Core.AssemblyInfoInputs.cache
+C:\Users\ahmet.yazici\Desktop\Ahmet\Books\Books.Core\obj\Debug\netcoreapp2.2\Books.Core.AssemblyInfo.cs
+C:\Users\ahmet.yazici\Desktop\Ahmet\Books\Books.Core\obj\Debug\netcoreapp2.2\Books.Core.csproj.CopyComplete
+C:\Users\ahmet.yazici\Desktop\Ahmet\Books\Books.Core\obj\Debug\netcoreapp2.2\Books.Core.dll
+C:\Users\ahmet.yazici\Desktop\Ahmet\Books\Books.Core\obj\Debug\netcoreapp2.2\Books.Core.pdb
